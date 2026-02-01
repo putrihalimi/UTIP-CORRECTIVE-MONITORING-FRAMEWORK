@@ -59,6 +59,8 @@ Teknik:
 1. Pivot Table
 2. COUNTIF / SUMIF
 3. Filter & conditional formatting
+4. Data Entry
+5. Data Validation
 
 📈 6️⃣ Reporting & Visualization
 Output laporan:
