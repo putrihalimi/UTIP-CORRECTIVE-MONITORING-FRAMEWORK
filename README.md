@@ -38,6 +38,7 @@ Langkah-langkah:
 Tools:
 1. Microsoft Excel
 2. Google Sheets
+3. Microsoft Powerpoint / Canva
 
 🚩 4️⃣ Flagging Logic
 > Menerapkan aturan sederhana untuk flagging:
